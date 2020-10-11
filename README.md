@@ -9,4 +9,6 @@
 
 + 熟悉Bean的生命周期，Bean的后置处理器等基本概念
 
+## 具体说明
 
+https://xie.infoq.cn/article/38fa519ae346081c121df4768
